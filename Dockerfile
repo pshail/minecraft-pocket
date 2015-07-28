@@ -1,4 +1,4 @@
-FROM heckdevice/ubuntu-base-14.04
+FROM jsrcorp/ubuntu-base-14.04
 
 RUN apt-get -y install python3-yaml
 
