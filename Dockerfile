@@ -1,5 +1,7 @@
 FROM jsrcorp/ubuntu-base-14.04
 
+MAINTAINER Shailesh Pant <shailesh.pant@gmail.com>
+
 RUN apt-get -y install python3-yaml
 
 RUN mkdir /pocketmine
